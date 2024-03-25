@@ -1,0 +1,14 @@
+A project on Machine Learning using basics of NLP to classify the job postings on famous websites as **legit** and **fake** using supervised learning techiques.
+
+Use principles of:
+Machine learning, Classification algorithms,Data preprocessing
+and Stemming and Lemmatizing
+
+Use following libraries:
+scikit learn, matplotlib, seaborn, pandas, numpy, spacy, wordcloud
+
+Use approaches mentioned in the research paper titled "A Comparative Study on Fake Job Post Prediction Using Different Data mining Techniques" by Sultana Umme Habiba, Md. Khairul Islam, and Farzana Tasnim. The paper was presented at the 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)
+and Fake Job Prediction Using Deep Neural Networks by Priyanka Singh and Jyoti Singh
+
+I have data in CSV file named fake_job_postings with job posting data containing several columns, including "job_id", "title", "location", "department", "salary_range", "company_profile", "description", "requirements", "benefits", "telecommuting", "has_company_logo", "has_questions", "employment_type", "required_experience", "required_education", "industry", "function", and "fraudulent"
+
